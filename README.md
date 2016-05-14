@@ -2,6 +2,9 @@ JavaCPP
 =======
 
 [![Join the chat at https://gitter.im/bytedeco/javacpp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bytedeco/javacpp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/bytedeco/javacpp.svg)](https://travis-ci.org/bytedeco/javacpp)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/bytedeco/javacpp?svg=true)](https://ci.appveyor.com/project/bytedeco/javacpp)
+
 
 Introduction
 ------------
